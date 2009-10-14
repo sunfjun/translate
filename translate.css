@@ -1,0 +1,43 @@
+#wpbody-content{
+	margin:0 auto;
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	font-size:12px;
+	opacity:0.85;
+	padding:20px;
+	position:fixed;
+	top:0px;
+	width:600px;
+	bottom:0px;
+}
+#wpbody-content .wrap {
+	overflow:scroll;
+	position:relative;
+	width:600px;
+	padding:10px;
+}
+#t_update {
+ 	background-color:#000000;
+	color:#FFFFFF;
+	position:fixed;
+	top:0px;
+	left:0px; 
+}
+#t_close {
+ 	background-color:#000000;
+	color:#FFFFFF;
+	position:fixed;
+	top:0px;
+	right:64px; 
+}
+.updated {
+	color:#00ff00;
+}
+#translate_cookie {
+	background-color:#000000;
+	color:#FFFFFF;
+	position:fixed;
+	top:0px;
+	right:0px; 
+}
